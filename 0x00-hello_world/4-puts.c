@@ -1,11 +1,10 @@
-
-# < stdio.h >
+#include <stdio.h>
 /**
- * main . A program with puts function
- * Return:0(valid)
+ * main . Puts function program
+ * Return: 0 (valid)
  */
 int main(void)
 {
-puts("\"Programming is like a multilingual puzzle");
-return(0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
