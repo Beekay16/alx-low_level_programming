@@ -1,6 +1,5 @@
 #include "main.h"
 /**
- *
  * main - Entry level of my program
  *
  * Return: 0
